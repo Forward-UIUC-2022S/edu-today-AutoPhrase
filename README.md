@@ -1,5 +1,13 @@
 # AutoPhrase: Automated Phrase Mining from Massive Text Corpora
 
+### NOTE: This repository has been modified to work in cohesion with ( https://github.com/Forward-UIUC-2021F/chen-si-domain-relevant-keyword-extraction/tree/automation-module ) repository
+
+
+## Remaining work:
+- Connect the docker images for (https://github.com/Forward-UIUC-2022S/edu-today-AutoPhrase) and (https://github.com/Forward-UIUC-2022S/edu-today-AutoPhrase) as described in ( https://github.com/Forward-UIUC-2021F/chen-si-domain-relevant-keyword-extraction/tree/automation-module ) so that everything can be run with a single command
+- Right now, Autophrase has its seperate dockerfile and domain-relevance has its own dockerfile.
+
+
 ## Publications
 
 Please cite the following two papers if you are using our tools. Thanks!
